@@ -1,0 +1,95 @@
+[33mcommit fc0d04e3690153fb014493fc90471708270ba1a9[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Sebastian Vang <73190171+SebastianVang@users.noreply.github.com>
+Date:   Tue Oct 19 04:01:02 2021 -0500
+
+    Minor Adjustments to Introduction
+
+[33mcommit 5345ec7c1a8df643e6cd855a3070c306c592e30a[m
+Author: Sebastian Vang <73190171+SebastianVang@users.noreply.github.com>
+Date:   Tue Oct 19 02:43:05 2021 -0500
+
+    Condensed Introductory Slides
+
+[33mcommit ce61311e46609cdc70662321ba36647e94d70b2f[m
+Author: Stephen Behnke <behnkestephen@gmail.com>
+Date:   Mon Oct 18 23:48:04 2021 -0500
+
+    UI Section Changes
+    
+    Cleaned up a few of the UI menus. Made changes to the script list according to what he wanted.
+
+[33mcommit ad3a6ded89cac138c8f2a4c087d2171e8d522fde[m
+Author: haileyvadnais <hailey.vadnais22@gmail.com>
+Date:   Mon Oct 18 21:26:28 2021 -0500
+
+    Update Group 2 Introductory Presentation.pptx
+    
+    Fixed incorrect figures.
+
+[33mcommit ec5d5edffc6b61c579c7aa6a2002d165a38975d5[m
+Author: haileyvadnais <hailey.vadnais22@gmail.com>
+Date:   Mon Oct 18 21:05:51 2021 -0500
+
+    Update Group 2 Introductory Presentation.pptx
+    
+    Fixed a few minor formatting issues.
+
+[33mcommit 0d7c14eb702fe6d3400950ebe542c080868229c4[m
+Author: haileyvadnais <hailey.vadnais22@gmail.com>
+Date:   Fri Oct 15 20:57:29 2021 -0500
+
+    Update Group 2 Introductory Presentation.pptx
+    
+    Added second half of the user interface slides.
+
+[33mcommit 70b17431e3beeb25a118aa77f74ed6882ac85bd6[m
+Author: Stephen Behnke <behnkestephen@gmail.com>
+Date:   Fri Oct 15 20:26:45 2021 -0500
+
+    Added user-interface stuff
+    
+    Did about half of the user interface windows.
+
+[33mcommit 988fe2e9c71f738d29aabeb1dc707618208fb801[m
+Author: Stephen Behnke <behnkestephen@gmail.com>
+Date:   Fri Oct 15 20:25:05 2021 -0500
+
+    Revert "Added user-interface stuff"
+    
+    This reverts commit 438b02e4cf05c8652447f6bd892ad8bcd733a693.
+
+[33mcommit 438b02e4cf05c8652447f6bd892ad8bcd733a693[m
+Author: Stephen Behnke <behnkestephen@gmail.com>
+Date:   Fri Oct 15 20:18:55 2021 -0500
+
+    Added user-interface stuff
+    
+    Did about half of the user interface windows.
+
+[33mcommit b8e7ee2715c7d827392a00566e80e705f2e7b6ce[m
+Author: Sebastian Vang <73190171+SebastianVang@users.noreply.github.com>
+Date:   Fri Oct 15 19:43:26 2021 -0500
+
+    Added User Stories
+
+[33mcommit 2b00a2df5f7ee124a88bcb765761f893ab8c4f5e[m
+Author: Stephen Behnke <behnkestephen@gmail.com>
+Date:   Fri Oct 15 19:03:38 2021 -0500
+
+    Initial format layed out
+    
+    Everyones work has been delegated. Time to get to work! 😎👍
+
+[33mcommit d77a5b90ac51086e7f00bc4c8b040377307d2a64[m
+Author: StephenBehnke24 <76532502+StephenBehnke24@users.noreply.github.com>
+Date:   Fri Oct 15 18:16:46 2021 -0500
+
+    Inital File Upload
+    
+    Contains the PowerPoint file with the title slide filled in.
+
+[33mcommit 21c7a92cd74890d3084b43864c4cf9d1854f09a0[m
+Author: Matthew Kotras <mkotras7@gmail.com>
+Date:   Thu Oct 14 13:07:55 2021 -0500
+
+    Initial commit
